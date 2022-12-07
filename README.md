@@ -1,4 +1,6 @@
 # Papers
+Available within this repo
+
 ## As first-author
 * [Multispacecraft Observations of Coronal Loops to Verify a Force-free Reconstruction and Infer Loop Cross Sections](https://doi.org/10.3847/1538-4357/abf4d5). **M.I. McCarthy**, D.W. Longcope, and A.V. Malanushekno, 2021, *The Astrophysical Journal*, 913, 56.
 * [Measuring and modeling the rate of separator reconnection between an emerging and existing active region](https://doi.org/10.3847/1538-4357/ab55f0). **M.I. McCarthy**, D.W. Longcope, A.V. Malanushekno, and D.E. McKenzie, 2019, *ApJ*, 887, 2.
