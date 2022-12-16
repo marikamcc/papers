@@ -1,5 +1,5 @@
 # Papers
-Available within this repo
+Papers for which I am an author are available within this repo.
 
 ## As first-author
 * [Multispacecraft Observations of Coronal Loops to Verify a Force-free Reconstruction and Infer Loop Cross Sections](https://doi.org/10.3847/1538-4357/abf4d5). **M.I. McCarthy**, D.W. Longcope, and A.V. Malanushekno, 2021, *The Astrophysical Journal*, 913, 56.
